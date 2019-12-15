@@ -1,4 +1,4 @@
-package com.wooooooak.awesomeandroidextension.ext.network.livedata
+package com.wooooooak.awesomeandroidextension.ext
 
 import androidx.lifecycle.MutableLiveData
 
